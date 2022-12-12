@@ -1,6 +1,5 @@
 .imagem-banner {
-    object-fit: cover;
-    opacity: 0.35;
+     opacity: 0.35;
     -webkit-filter: blur(1px);
     -moz-filter: blur(1px);
     -o-filter: blur(1px);
@@ -23,3 +22,4 @@
     font-size: 1.2rem;
     margin: 0 !important;
 }
+
