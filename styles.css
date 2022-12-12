@@ -12,15 +12,6 @@
     border-radius: 50rem;
 }
 
-.card h5,
-h6 {
-    text-align: left;
-    font-size: 3rem;
-}
-
-.card p {
-    text-align: left;
-    font-size: 2rem;
-    font-weight: 200;
-    margin: 0 !important;
+.icone-curso {
+    max-width: 2rem;
 }
