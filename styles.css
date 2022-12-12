@@ -1,4 +1,9 @@
 .imagem-banner {
     object-fit: cover;
-    object-position: 90%;    
+    opacity: 0.35;
+    -webkit-filter: blur(1px);
+    -moz-filter: blur(1px);
+    -o-filter: blur(1px);
+    -ms-filter: blur(1px);
+    filter: blur(1px);
 }
