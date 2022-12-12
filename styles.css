@@ -7,3 +7,19 @@
     -ms-filter: blur(1px);
     filter: blur(1px);
 }
+
+.imagem-lenin{
+    width: 50%;
+    border-radius: 50rem;
+}
+
+.card h5, h6 {
+    text-align: left;
+    font-size: 2rem;
+}
+
+.card p {
+    text-align: left;
+    font-size: 1.2rem;
+    margin: 0 !important;
+}
