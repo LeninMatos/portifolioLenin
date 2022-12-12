@@ -1,5 +1,5 @@
 .imagem-banner {
-     opacity: 0.35;
+    opacity: 0.35;
     -webkit-filter: blur(1px);
     -moz-filter: blur(1px);
     -o-filter: blur(1px);
@@ -7,19 +7,20 @@
     filter: blur(1px);
 }
 
-.imagem-lenin{
+.imagem-lenin {
     width: 50%;
     border-radius: 50rem;
 }
 
-.card h5, h6 {
+.card h5,
+h6 {
     text-align: left;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 
 .card p {
     text-align: left;
-    font-size: 1.2rem;
+    font-size: 2rem;
+    font-weight: 200;
     margin: 0 !important;
 }
-
