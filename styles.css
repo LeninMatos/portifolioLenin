@@ -5,6 +5,7 @@
     -o-filter: blur(1px);
     -ms-filter: blur(1px);
     filter: blur(1px);
+    ;
 }
 
 .imagem-lenin {
@@ -18,4 +19,26 @@
 
 .imagem-projeto {
     width: 100rem;
+}
+
+.portifolio-respn {
+    display: none;
+}
+
+@media screen and (max-width: 769px) {
+    * {
+        font-size: xx-small;
+    }
+
+    .card-img-overlay {
+        display: none;
+    }
+
+    .portifolio-respn {
+        display: block;
+        margin-top: -23rem;
+        margin-bottom: 2rem;
+        margin-left: 6rem;
+    }
+
 }
